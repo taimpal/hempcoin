@@ -1,0 +1,6 @@
+hempcoin-qt usr/bin
+share/pixmaps/hempcoin32.xpm usr/share/pixmaps
+share/pixmaps/hempcoin16.xpm usr/share/pixmaps
+share/pixmaps/hempcoin128.png usr/share/pixmaps
+debian/hempcoin-qt.desktop usr/share/applications
+debian/hempcoin-qt.protocol usr/share/kde4/services/
